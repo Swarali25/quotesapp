@@ -1,3 +1,5 @@
+Quotes App is build using React js , it contains multiples quotes about sports,history,motivational etc categories. Users can read the quotes .It also includes a search functionality to search for specific catgeory quotes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
